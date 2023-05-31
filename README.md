@@ -26,3 +26,9 @@ Step 7: Users are encouraged to use a branded hashtag, such as #DiscoverYourNext
 
 If players finish the game or share their experience on social media, Spotify may reward them with special content or other benefits to help promote the campaign.
 The overall goal of this campaign is to boost the personalization and interactivity of podcast listening on Spotify, which will ultimately increase user engagement and market share for the business.
+
+Below is the Design link
+
+Prototype Link: https://www.figma.com/proto/oKcJkOLf6VInWe9LOYsDNe/Spotify?node-id=140-456&scaling=scale-down&page-id=0%3A1&starting-point-node-id=140%3A456
+
+Figma Link:https://www.figma.com/file/oKcJkOLf6VInWe9LOYsDNe/Spotify?node-id=0-1&t=zHJbZCf9tkJWKU50-0
